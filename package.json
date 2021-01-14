@@ -3,12 +3,22 @@
   "version": "1.0.0",
   "description": "Removes all spaces from a string",
   "license": "MIT",
-  "repository": "bamblehorse/tiny",
+  "repository": "aboubakarch/has-item",
   "main": "index.js",
   "keywords": [
-    "tiny",
+    "hasItem",
     "npm",
     "package",
-    "bamblehorse"
+    "array",
+    "array has item",
+    "array has specific item",
+    "is array contains this item",
+    "array",
+    "Js array",
+    "includes",
+    "contains",
+    "match",
+    "match item",
+    "match with array item"
   ]
 }
