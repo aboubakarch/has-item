@@ -1,7 +1,7 @@
 {
   "name": "@abou.bakar/has-item",
   "version": "1.1.0",
-  "description": "Removes all spaces from a string",
+  "description": "Check weather an item exist in array or not",
   "license": "MIT",
   "repository": "aboubakarch/has-item",
   "main": "index.js",
