@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-has-item is very useful and lite weight library which encourage user to check that if a perticular item exist in array or not.
+has-item is a handy, lightweight library which helps to find out if a particular item/object exists in a Javascript array or not.
 
 ## Install
   - npm install @abou.bakar/has-item
@@ -21,5 +21,5 @@ const array=[
     ];
 const object1={id:4, name:"Orbiqon"};    
 const object2={id:1, name:"Orbiqon"};    
-HasItem(array,object1)  // it will return true
-HasItem(array,object2)  // it will return false
+HasItem(array,object1)  // returns true
+HasItem(array,object2)  // returns false
